@@ -1,0 +1,24 @@
+{
+    "movies":[
+        {"id": 1, "title": "Saw", "category": "Horror", "image": "https://picsum.photos/200/300", "description": "A series of gruesome psychological horror films."},
+        {"id": 2, "title": "The Shawshank Redemption", "category": "Drama", "image": "https://picsum.photos/200/301", "description": "Two imprisoned men form a deep bond, finding solace and redemption through acts of decency."},
+        {"id": 3, "title": "Inception", "category": "Sci-Fi", "image": "https://picsum.photos/200/302", "description": "A thief who enters the minds of others to steal secrets gets a chance to have his criminal record erased."},
+        {"id": 4, "title": "The Dark Knight", "category": "Action", "image": "https://picsum.photos/200/303", "description": "Batman faces his greatest challenge as he confronts the Joker, a criminal mastermind intent on chaos."},
+        {"id": 5, "title": "The Godfather", "category": "Crime", "image": "https://picsum.photos/200/304", "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."},
+        {"id": 6, "title": "Forrest Gump", "category": "Drama", "image": "https://picsum.photos/200/305", "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary life story."},
+        {"id": 7, "title": "The Matrix", "category": "Sci-Fi", "image": "https://picsum.photos/200/306", "description": "A hacker discovers the true nature of reality and his role in the war against its controllers."},
+        {"id": 8, "title": "The Lion King", "category": "Animation", "image": "https://picsum.photos/200/307", "description": "A lion prince, Simba, flees his kingdom only to learn the true meaning of responsibility and bravery."},
+        {"id": 9, "title": "Pulp Fiction", "category": "Crime", "image": "https://picsum.photos/200/308", "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."},
+        {"id": 10, "title": "Fight Club", "category": "Drama", "image": "https://picsum.photos/200/309", "description": "An insomniac office worker forms an underground fight club with soap salesman Tyler Durden."},
+        {"id": 11, "title": "The Silence of the Lambs", "category": "Thriller", "image": "https://picsum.photos/200/310", "description": "A young FBI cadet seeks the advice of an incarcerated cannibalistic serial killer to apprehend another serial killer."},
+        {"id": 12, "title": "The Avengers", "category": "Action", "image": "https://picsum.photos/200/311", "description": "Earth's mightiest heroes must come together to defeat an alien invasion led by Loki."},
+        {"id": 13, "title": "Interstellar", "category": "Sci-Fi", "image": "https://picsum.photos/200/312", "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."},
+        {"id": 14, "title": "Gladiator", "category": "Action", "image": "https://picsum.photos/200/313", "description": "A betrayed Roman general seeks revenge against the corrupt emperor who murdered his family and sent him into slavery."},
+        {"id": 15, "title": "Shutter Island", "category": "Mystery", "image": "https://picsum.photos/200/314", "description": "A U.S. Marshal investigates the disappearance of a patient from a mental institution, leading him into a web of mystery and intrigue."},
+        {"id": 16, "title": "Jurassic Park", "category": "Adventure", "image": "https://picsum.photos/200/315", "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok."},
+        {"id": 17, "title": "The Prestige", "category": "Mystery", "image": "https://picsum.photos/200/316", "description": "Two magicians engage in a bitter rivalry, with each trying to outdo the other with increasingly elaborate tricks."},
+        {"id": 18, "title": "Avatar", "category": "Sci-Fi", "image": "https://picsum.photos/200/317", "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the indigenous people."},
+        {"id": 19, "title": "The Departed", "category": "Crime", "image": "https://picsum.photos/200/318", "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in Boston."},
+        {"id": 20, "title": "The Godfather Part II", "category": "Crime", "image": "https://picsum.photos/200/319", "description": "The continuation of the story of Michael Corleone's life as the new head of the Corleone family, as well as the rise of his father Vito."}
+      ]
+}
